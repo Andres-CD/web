@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>Recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <autor>Andrés Díaz</autor>
+        <iden>2024164008</iden>
+        <logo>logo.jpg</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="Aplausos_-_Efecto_De_Sonidos.mp3" modo="1" >MUY BIEN!</correcto>
+        <incorrecto son="Abucheo__Efecto_de_sonido.mp3" modo="1" >SIGUE INTENTANDO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>3</tipo>
+              <cabeceira>Arma el rompecabezas</cabeceira>
+              <imaxe>puzle.png</imaxe>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="2" >
+              <tipo>20</tipo>
+              <cabeceira>Arrastrar las etiquetas a las regiones correspondientes</cabeceira>
+              <imaxe>actividad.jpeg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="91" posy="62">Región Caribe</etiqueta>
+              <etiqueta posx="51" posy="194">Región PAcífico</etiqueta>
+              <etiqueta posx="93" posy="153">Región Andina</etiqueta>
+              <etiqueta posx="169" posy="164">Región Orinoquía</etiqueta>
+              <etiqueta posx="149" posy="264">Región Amazonía</etiqueta>
+              <etiqueta posx="28" posy="36">Región Insular</etiqueta>
+        </paxina>
+        <paxina id="3" >
+              <tipo>4</tipo>
+              <cabeceira>Sopa de Letras </cabeceira>
+              <modo>2</modo>
+              <sopa enun="Region_caribe.jpg">Caribe</sopa>
+              <sopa enun="Region_andina.jpg">Andina </sopa>
+              <sopa enun="Regi_on_amazonica.jpg">Amazonía</sopa>
+              <sopa enun="">Orinoquía</sopa>
+              <sopa enun="region_insular.png">Insular</sopa>
+              <sopa enun="region_pacifica.jpg">Pacífico</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+    </libro>
+</lim>
